@@ -5,7 +5,7 @@ Date:
 '''
 
 # Write a function to multiply two matrices and return the product in the end
-'''def task1(matrix, otherMatrix)'''
+'''def task1(matrix, other_matrix)'''
 
 # Given a string which contains alphanumeric characters only, sort and print the string in the following manner:
 # 1. All sorted lowercase letters are ahead of uppercase letters
