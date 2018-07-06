@@ -8,7 +8,7 @@ Date:
 '''def task1(n)'''
 
 # Print "Hello, firstname lastname!" to the default system output
-'''def task2(firstname, lastname)'''
+'''def task2(first_name, last_name)'''
 
 # Print the capitalized first and the last name (e.g., "jAmES HaRdEN" should return "James Harden")
 '''def task3(string)'''
@@ -74,7 +74,7 @@ Date:
 '''def task23(lst)'''
 
 # Write a function which takes two lists and returns list which has all the elements of these two lists (no duplicates)
-'''def task24(lst, otherLst)'''
+'''def task24(lst, other_lst)'''
 
 # Write a function which returns a number of which n is factorial of (return False if n is not a factorial number)
 '''def task25(n)'''
