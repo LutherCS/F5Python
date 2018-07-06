@@ -27,7 +27,7 @@ All the tasks are commented out. Thus, you should uncomment the tasks and you ar
 
 Tasks are usually commented out like this:  
 
-```python
+```
 # Remove duplicates from a string
 '''def taskN(string)'''
 ```
@@ -42,7 +42,7 @@ Note that these commands run all the test cases at once meaning that you have to
 
 If you want to run individual test instead of running all of them at once, you can comment the test cases in the `example_test.py` file or specify the test cases you want to run. You can do it by running the following command:
 
-```python
+```
 # Tests task1
 pytest example_test.py::test_task1
 
@@ -56,3 +56,4 @@ pytest example_test.py::test_task1 example_test.py::test_task2 example_test.py::
 
 - [Python documentation](https://docs.python.org/3.6/)
 - [pytest documentation](https://docs.pytest.org/en/latest/)
+- [Project Euler](https://projecteuler.net)
