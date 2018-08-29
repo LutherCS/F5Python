@@ -7,10 +7,10 @@ Date:
 # Create the dictionary out of the list of keys and the list of values and return it (assume that the list sizes are equal)
 '''def task1(keys_list,values_list)'''
 
-# Return the list keys of the dictionary
+# Return the list of keys of the dictionary
 '''def task2(new_dict)'''
 
-# Return the list values of the dictionary
+# Return the list of values of the dictionary
 '''def task3(new_dict)'''
 
 # Return True if the given item is the key of the list; otherwise, return False
